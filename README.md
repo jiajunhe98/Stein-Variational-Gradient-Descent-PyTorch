@@ -2,7 +2,7 @@
 
 An implementation of SVGD in PyTorch. 
 
-[Examples on GMM](https://github.com/hejj16/Stein-Variational-Gradient-Descent-PyTorch/blob/main/Example_of_SVGD.ipynb)
+[Notebook: examples on 1d & 2d GMM](https://github.com/hejj16/Stein-Variational-Gradient-Descent-PyTorch/blob/main/Example_of_SVGD.ipynb)
 
 
 
