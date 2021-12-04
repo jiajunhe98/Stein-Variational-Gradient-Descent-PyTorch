@@ -8,5 +8,5 @@ An implementation of SVGD in PyTorch.
 
 
 
-## References
+### References
 Q. Liu en D. Wang, “Stein variational gradient descent: A general purpose bayesian inference algorithm”, arXiv preprint arXiv:1608. 04471, 2016.
