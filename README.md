@@ -1,9 +1,8 @@
 # Stein-Variational-Gradient-Descent
 
-An implementation of SVGD in PyTorch.
+An implementation of SVGD in PyTorch. 
 
-
-[Examples on GMM]()
+[Examples on GMM](https://github.com/hejj16/Stein-Variational-Gradient-Descent/blob/main/Example_of_SVGD.ipynb)
 
 
 
