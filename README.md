@@ -3,6 +3,8 @@
 An implementation of SVGD in PyTorch.
 
 
+[Examples on GMM]()
+
 
 
 
