@@ -1,4 +1,4 @@
-# Stein-Variational-Gradient-Descent
+# Stein Variational Gradient Descent in PyTorch
 
 An implementation of SVGD in PyTorch. 
 
